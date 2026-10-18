@@ -96,3 +96,8 @@ Quarterly animation of Arctic-ice height change from NASA ICESat-2, January 2019
 
 <img width="1908" height="904" alt="02" src="https://github.com/user-attachments/assets/0d4ffe32-0aa6-40be-8061-3a0e794e222d" />
 
+<p>Антарктида в эту анимацию не входит.</p>
+
+**[Ссылка на AI-Project_Arctic-Ice_Cursor](https://github.com/ElenaTratsevskaya/AI-Project_Arctic-Ice_Cursor/tree/main)**
+
+
