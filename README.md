@@ -89,7 +89,10 @@ Quarterly animation of Arctic-ice height change from NASA ICESat-2, January 2019
 
 <p>Данные ATL15 выпущены NASA и распространяются Национальным центром данных по снегу и льду (NSIDC). Их можно использовать, если указать источник и <a href="https://doi.org/10.5067/ATLAS/ATL15.006">постоянную ссылку на набор ATL15</a>.</p>
 
-<p>Правила NSIDC о том, как цитировать данные, документацию и изображения, изложены на <a href="https://nsidc.org/about/data-use-copyright">странице условий использования данных, документации и изображений</a>.</p>
+<p>Правила NSIDC о том, как цитировать данные, документацию и изображения, изложены на <a href="https://nsidc.org/about/data-use-copyright">странице условий использования данных, 
+документации и изображений</a>.</p>
 
 <p>Страница <code>arctic-land-ice-height.html</code>, сценарий <code>build_arctic.py</code> и этот текст сделаны для проекта AI-Project-Arctic-Ice_Cursor. Их можно открывать и передавать вместе со ссылкой на источник данных. Научные числа в кадрах остаются данными NASA и NSIDC и отдельно не лицензируются автором страницы.</p>
+
+<img width="1908" height="904" alt="02" src="https://github.com/user-attachments/assets/0d4ffe32-0aa6-40be-8061-3a0e794e222d" />
 
