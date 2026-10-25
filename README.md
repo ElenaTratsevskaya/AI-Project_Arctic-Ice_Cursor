@@ -3,7 +3,7 @@ Quarterly animation of Arctic-ice height change from NASA ICESat-2, January 2019
 
 <p>Поквартальная анимация изменения высоты наземного льда Арктики по данным NASA ICESat-2. Период на карте: 1 января 2019 — 2 апреля 2026. На странице подписи по-английски.</p><br><br>
 <div id="header" align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Cursor_logo.svg/1280px-Cursor_logo.svg.png" title="Cursor" width="164" height="40"/>&nbsp;
+<img src="https://cdn1.tenchat.ru/static/vbc-gostinder/2025-05-19/f3d592c4-6f18-4095-8b73-f6d89e8c3f58.png?width=1004&height=525&fmt=webp" title="Cursor" width="133" height="70"/>&nbsp;
 </div>
 
 ## Как открыть
